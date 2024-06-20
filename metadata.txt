@@ -1,0 +1,6 @@
+sources:
+https://osdatahub.os.uk/downloads/open/OpenUPRN
+https://epc.opendatacommunities.org/login
+copyrights:
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+https://epc.opendatacommunities.org/docs/copyright
